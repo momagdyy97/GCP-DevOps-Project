@@ -39,22 +39,23 @@ Then, join us on this exciting journey and gain an in-depth idea of a real-world
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - **Course Outline**
+-----------------------
 
-1. Course Introduction
+1. **Course Introduction**:-
 
 - **what is a sprint:**- It's a set period of time during which specific work has to be implemented and made for review.
 
-- *Backlog Grooming*:- Curated list of tasks to be worked in.
+- **Backlog Grooming**:- Curated list of tasks to be worked in.
 
-- *Sprint Planning*:- Tasks can be picked based on team capacity.
+- **Sprint Planning**:- Tasks can be picked based on team capacity.
 
-- *Sprint*:- Work time allocated to complete tasks (1 week or 2 weeks). 
+- **Sprint**:- Work time allocated to complete tasks (1 week or 2 weeks). 
 
-- *Sprint Review*:- Review of the work completed. 
+- **Sprint Review**:- Review of the work completed. 
 
 --------------------------------------------------------------------------------
 
-2. **Sprint-1**:-
+2. **Sprint-01**:-
 
 --------------------------------------------------------------------------------
 
