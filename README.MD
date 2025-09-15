@@ -44,20 +44,18 @@ Then, join us on this exciting journey and gain an in-depth idea of a real-world
 
 - **what is a sprint:**- It's a set period of time during which specific work has to be implemented and made for review.
 
-*. Backlog Grooming*:- Curated list of tasks to be worked in.
-*. Sprint Planning*:- Tasks can be picked based on team capacity.
-*. Sprint*:- Work time allocated to complete tasks (1 week or 2 weeks). 
-*. Sprint Review*:- Review of the work completed. 
+- *Backlog Grooming*:- Curated list of tasks to be worked in.
 
-- Cloud Build
-- Cloud Build Trigger
-- GKE
-- Google Artifact Registry 
-- GitHub
+- *Sprint Planning*:- Tasks can be picked based on team capacity.
+
+- *Sprint*:- Work time allocated to complete tasks (1 week or 2 weeks). 
+
+- *Sprint Review*:- Review of the work completed. 
 
 --------------------------------------------------------------------------------
 
 2. **Sprint-1**:-
+
 --------------------------------------------------------------------------------
 
 *Task 1*:- Creating a Github Repo:-
@@ -77,7 +75,7 @@ git push -u origin main
 
 Github -> Main -> Clone -> Feature Branch -> Pull Request -> Engineer -> Main.
 
-- Mainly understanding the problem. (Enable Branch Protection)
+Mainly understanding the problem. (Enable Branch Protection)
 
 --------------------------------------------------------------------------------
 
@@ -89,7 +87,8 @@ Require a pull request before merging
 
 When enabled, all commits must be made to a non-protected branch and submitted via a pull request before they can be merged into a branch that matches this rule.
 
-Require approvals
+Require approvals:-
 
 When enabled, pull requests targeting a matching branch require a number of approvals and no changes requested before they can be merged.
+
 --------------------------------------------------------------------------------
