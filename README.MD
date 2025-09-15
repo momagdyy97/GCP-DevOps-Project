@@ -50,9 +50,9 @@ Then, join us on this exciting journey and gain an in-depth idea of a real-world
 - Google Artifact Registry 
 - GitHub
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-2. Sprint-1
+2. **Sprint-1**:-
 --------------------------------------------------------------------------------
-*Task 1* Creating a Github Repo:-
+*Task 1*:- Creating a Github Repo:-
 - Go to GitHub and click on new repo name it and finish then do the following:-
 git init
 git add .
@@ -61,7 +61,7 @@ git branch -M main
 git remote add origin https://github.com/momagdyy97/GCP-DevOps-Project.git
 git push -u origin main
 --------------------------------------------------------------------------------
-*Task 2* Cloning the repo and setting up our editor:-
+*Task 2*:- Cloning the repo and setting up our editor:-
 
 - Protect matching branches:-
 
