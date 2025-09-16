@@ -93,3 +93,22 @@ Require approvals:-
 When enabled, pull requests targeting a matching branch require a number of approvals and no changes requested before they can be merged.
 
 --------------------------------------------------------------------------------
+
+*Task 4*:- Coding our application locally
+
+Adding the app.py, Dockerfile, docker-compose.yml, requirements.txt, docker flask application.md
+
+--------------------------------------------------------------------------------
+
+*Task 5*:- Demo: Testing, Debugging our code locally 
+
+either:- with docker-compose up -d 
+
+or 
+
+docker  build --tag python-docker-image .
+
+docker run -p 5000:5000 python-docker-image
+
+--------------------------------------------------------------------------------
+
