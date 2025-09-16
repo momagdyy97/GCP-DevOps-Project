@@ -1,0 +1,15 @@
+services:
+  web:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: flask-web
+    ports:
+      - "5000:5000"
+    # For first run, avoid a bind mount so the image contents are used.
+    # (You can uncomment later for live-reload dev.)
+    # volumes:
+    #   - ./:/app
+    restart: unless-stopped
+    # Not required because CMD is in the image, but you can override if you want:
+    # command: ["flask","--app","app.py","run","--host=0.0.0.0","--port=5000"]
