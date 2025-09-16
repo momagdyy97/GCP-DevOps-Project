@@ -39,29 +39,29 @@ Then, join us on this exciting journey and gain an in-depth idea of a real-world
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 - **Course Outline**
+-----------------------
 
-1. Course Introduction
+1. **Course Introduction**:-
 
 - **what is a sprint:**- It's a set period of time during which specific work has to be implemented and made for review.
 
-*. Backlog Grooming*:- Curated list of tasks to be worked in.
-*. Sprint Planning*:- Tasks can be picked based on team capacity.
-*. Sprint*:- Work time allocated to complete tasks (1 week or 2 weeks). 
-*. Sprint Review*:- Review of the work completed. 
+- **Backlog Grooming**:- Curated list of tasks to be worked in.
 
-- Cloud Build
-- Cloud Build Trigger
-- GKE
-- Google Artifact Registry 
-- GitHub
+- **Sprint Planning**:- Tasks can be picked based on team capacity.
+
+- **Sprint**:- Work time allocated to complete tasks (1 week or 2 weeks). 
+
+- **Sprint Review**:- Review of the work completed. 
 
 --------------------------------------------------------------------------------
 
-2. **Sprint-1**:-
+2. **Sprint-01**:-
+
 --------------------------------------------------------------------------------
 
 *Task 1*:- Creating a Github Repo:-
-- Go to GitHub and click on new repo name it and finish then do the following:-
+
+Go to GitHub and click on new repo name it and finish then do the following:-
 
 git init
 git add .
@@ -69,25 +69,27 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/momagdyy97/GCP-DevOps-Project.git
 git push -u origin main
+
 --------------------------------------------------------------------------------
 
 *Task 2*:- Cloning the repo and setting up our editor:-
 
 Github -> Main -> Clone -> Feature Branch -> Pull Request -> Engineer -> Main.
 
-- Mainly understanding the problem. (Enable Branch Protection)
+Mainly understanding the problem. (Enable Branch Protection)
 
 --------------------------------------------------------------------------------
 
 *Task 3*:- Setup Github repo according to DevOps best practice
 
-- Protect matching branches:-
+Protect matching branches:-
 
 Require a pull request before merging
 
 When enabled, all commits must be made to a non-protected branch and submitted via a pull request before they can be merged into a branch that matches this rule.
 
-Require approvals
+Require approvals:-
 
 When enabled, pull requests targeting a matching branch require a number of approvals and no changes requested before they can be merged.
+
 --------------------------------------------------------------------------------
