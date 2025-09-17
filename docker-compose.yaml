@@ -1,7 +1,7 @@
 services:
   web:
     build:
-      context: .
+      context: /mnt/d/GCP DevOps Project/Docker_flask_application
       dockerfile: Dockerfile
     container_name: flask-web
     ports:

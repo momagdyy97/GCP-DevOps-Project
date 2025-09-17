@@ -57,6 +57,18 @@ Then, join us on this exciting journey and gain an in-depth idea of a real-world
 
 2. **Sprint-01**:-
 
+Spring Goals
+
+Creating a new GitHub Repo.
+
+Setting up the repo according to the company's best practices.
+
+Coding: Writing a code for a simpler docker image.
+
+Testing the code locally.
+
+Pushing the code to the GitHub repo.
+
 --------------------------------------------------------------------------------
 
 *Task 1*:- Creating a Github Repo:-
@@ -112,3 +124,39 @@ docker run -p 5000:5000 python-docker-image
 
 --------------------------------------------------------------------------------
 
+--------------------------------------------------------------------------------
+
+*Sprint-01 Review*:- 
+
+Creating a new GitHub Repo.
+
+Setting up the repo according to the company's best practices.
+
+Coding: Writing a code for a simpler docker image.
+
+Testing the code locally.
+
+Pushing the code to the GitHub repo.
+
+--------------------------------------------------------------------------------
+
+2. **Sprint-02**:-
+
+Spring Goals
+
+Creating a GCP account.
+
+Understanding the fundamentals of GKE in GCP.
+
+Setting up a GKE cluster.
+--------------------------------------------------------------------------------
+
+*Task 1 Creating a GCP cloud Account*
+
+--------------------------------------------------------------------------------
+
+*Task 2 Setting up a Budget and Alerting*
+
+
+
+--------------------------------------------------------------------------------
